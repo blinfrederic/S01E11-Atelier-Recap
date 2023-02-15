@@ -4,7 +4,7 @@
 
  *The forest, développé par les studios Nightend Games*
 
- accueil- bestiaire - CV -contact
+ accueil- [bestiaire](bestiaire.md) - développement -contact
 
  ## Pésentation
 
