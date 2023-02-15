@@ -4,7 +4,7 @@
 
  *The forest, développé par les studios Nightend Games*
 
- accueil- [bestiaire](bestiaire.md) - développement -contact
+ [accueil](README.md)- [bestiaire](bestiaire.md) - développement -[contact](contact.md)
 
 #### **The Forest a été inspiré par des films culte tels que**
 
@@ -31,3 +31,4 @@ L'équipe de développement a une expérience dans les effets visuels au cinéma
   - le 11 novembre 2015 ajout dynamite-man 
   - le 30 avril    2018 sortie officiel
 
+© 2023 - The Forest -[Me contacter](cestbidon@bidon.com)

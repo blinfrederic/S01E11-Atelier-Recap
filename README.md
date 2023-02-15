@@ -4,7 +4,8 @@
 
  *The forest, développé par les studios Nightend Games*
 
- accueil- [bestiaire](bestiaire.md) - développement -contact
+ accueil- [bestiaire](bestiaire.md) - [développement](développement.md) -[contact](contact.md)
+
 
  ## Pésentation
 
@@ -14,4 +15,4 @@ Le jeu se déroule sur une ile densément forestière où le personnage joué Er
 
 Le jeu propose un gameplay non linéaire dans un monde ouvert exploré à partir d'une vue à la première personne, sans aucune mission ou quête, donnant ainsi au joueur davantage d'autonomie quant aux moyens de sa survie. 
 
-© 2023 - The Forest - Me contacter 
+© 2023 - The Forest -[Me contacter](cestbidon@bidon.com)

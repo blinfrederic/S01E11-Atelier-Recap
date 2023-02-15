@@ -3,7 +3,7 @@
 
  *The forest, développé par les studios Nightend Games*
 
- [accueil](README.md) - bestiaire - développement -contact
+ [accueil](README.md) - bestiaire - [développement](développement.md) -[contact](contact.md)
 
 ## Cannibales Basiques
 
@@ -30,3 +30,4 @@ Mutant Megan Cross|ce mutant porte ce nom car il s'agit d'un mutant de parties a
 Cannibales Affamés |Les cannibales affamés sont une forme séparée du cannibale normal. Ils sont parfois hostiles envers les autres cannibales aussi bien que vous. Ils sont plus faibles, mais sont plus agressifs et rapides. ils sont distingués par leurs corps presque complétement couvert de sang. Les cannibales affamés et les normaux peuvent être vus en train de coopérer, mais les cannibales affamés peuvent facilement trahir et rejoindre leur homologue plus puissant.|moyen| 	
 Bébés Mutants| 	Dans les parties les plus profondes des grottes , le joueur peut trouver plusieurs Bébés Mutants gîser sur le sol. Ils sont aussi présent à la surface quand un Mutant Araignée est présent. Ils sautent sur le joueur en utilisant leur seule jambe. A la surface, ils peuvent être vus avec le Mutant Araignée, tentant de sauter pour attaquer, et sont capables de causer d'importants dégâts au joueur. Ils peuvent être identifiés par leurs cris inhumains, mais peuvent être tués en un coup.|facile|
 
+© 2023 - The Forest -[Me contacter](cestbidon@bidon.com)
